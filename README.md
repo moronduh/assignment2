@@ -16,3 +16,6 @@ A simple app to track pet food items given to your pets.
 - TextInput
 - Button
 - FlatList
+## Screenshots
+![Empty State](empty.png)
+![With Items](duplicateerror.png)
